@@ -1,19 +1,5 @@
 using UnityEngine;
 
-public class TeamB_Unit_FighterFSM_Death : Unit_Abstract<TeamB_Unit_FighterManager>
+public class TeamB_Unit_FighterFSM_Death : TeamB_Fighter_Death
 {
-    public override void EnterState(TeamB_Unit_FighterManager manager)
-    {
-
-    }
-
-    public override void ExitState(TeamB_Unit_FighterManager manager)
-    {
-
-    }
-
-    public override void UpdateState(TeamB_Unit_FighterManager manager)
-    {
-
-    }
 }

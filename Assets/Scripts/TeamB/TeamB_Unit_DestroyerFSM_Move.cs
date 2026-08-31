@@ -1,19 +1,5 @@
 using UnityEngine;
 
-public class TeamB_Unit_DestroyerFSM_Move : Unit_Abstract<TeamB_Unit_DestroyerManager>
+public class TeamB_Unit_DestroyerFSM_Move : TeamB_Destroyer_Move
 {
-    public override void EnterState(TeamB_Unit_DestroyerManager manager)
-    {
-
-    }
-
-    public override void UpdateState(TeamB_Unit_DestroyerManager manager)
-    {
-
-    }
-
-    public override void ExitState(TeamB_Unit_DestroyerManager manager)
-    {
-
-    }
 }

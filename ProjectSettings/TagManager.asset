@@ -10,6 +10,9 @@ TagManager:
   - SpawnerB
   - UnitA
   - UnitB
+  - Tower
+  - Destroyer
+  - Fighter
   layers:
   - Default
   - TransparentFX
